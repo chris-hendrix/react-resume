@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Chris Hendrix",
+    "occupation": "Seismic Engineer / Developer",
+    "description": "Learned the basics at MIT, develop .NET apps at work, and do a little coding on the side",
+    "image": "profilepic.jpg",
+    "bio": "I am an engineer with 8 years of experience and an advanced degree from MIT specializing in seismic/blast engineering and risk assessments for the nuclear industry. I have several years of professional and personal software development experience.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "cmhendrix@alum.mit.edu",
+    "phone": "214-533-3206",
+    "address": {
+      "street": "284 Harvard St",
+      "city": "Cambridge",
+      "area": "Boston",
+      "state": "MA",
+      "zip": "02139"
+    },
+    "website": "http://www.chris-hendrix.com",
+    "resumedownload": "https://1drv.ms/b/s!Ap3X7sVAQjQOkaB4WLuK2aHu5zuU8w",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/chris-hendrix/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/chris-hendrix",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "The majority of my most recent professional and work projects have been in .NET/WPF, however I was a TAed a Java course and have recently been expanding my python abilities.",
+    "education": [
+      {
+        "school": "MIT",
+        "degree": "Masters, Seismic Engineering",
+        "graduated": "June 2013",
+        "description": "My graduate degree focused on seismic engineering, which involved computationally modelling structures under dynamic loading. My thesis explored the feasibility of harvesting energy from large tune mass dampers, such as the one that sits atop Taipei 101 by modeling the structure in MATLAB. I also volunteered as an assistant coach for the MIT baseball team, and as alumnus advisor for the Kappa Sigma fraternity."
+      },
+      {
+        "school": "MIT",
+        "degree": "Bachelors, Civil & Environmental Engineering",
+        "graduated": "June 2012",
+        "description": "My undergraduate degree focused on all aspects of Civil & Environmental Engineering, from  modeling traffic to creating control systems to CNC routing a bridge out of plywood. My architecture minor provided the artistic touch and even allowed me to gain experience with 3D printing and laser cutting. Pitching on the MIT NCAA baseball team provided a nice outlet from coursework."
+      }
+    ],
+    "work": [
+      {
+        "company": "Jensen Hughes",
+        "title": "Lead Engineer",
+        "years": "2017 - Present",
+        "description": "I am currently developing software and providing seismic risk assessments the nuclear power industry. I am growing my project management and BD capabilities, a focusing on new initiatives such as blast design and probabilistic hazard analysis."
+      },
+      {
+        "company": "Stevenson & Associates",
+        "title": "Engineer",
+        "years": "2013 - 2017",
+        "description": "I started my career as a seismic engineer at Stevenson & Associates, focusing on making nuclear plants safe from earthquakes. S&A developed software in house and for clients, and I spent approximately two full years helping with that effort. Stevenson & Associates was acquired by Jensen Hughes in 2017."
+      },
+      {
+        "company": "MIT",
+        "title": "Teaching Assistant, Java",
+        "years": "2012 - 2013",
+        "description": "As a teaching assistant during my graduate studies, I had the opportunity to teach students during weekly lecture recitations, host office hours, write exam questions, and write homework solutions."
+      }
+    ],
+    "skills": [
+      {
+        "name": ".NET | OOP | Data Analysis | Power BI/DAX",
+        "level": "75%"
+      },
+      {
+        "name": "Python | Java SQL | Data Mining | Agile",
+        "level": "50%"
+      },
+      {
+        "name": "Node.js | React | Machine Learing | MongoDB",
+        "level": "25%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mp3 Tagger",
+        "category": "(Personal) and simple datagrid-based mp3 tag editor.",
+        "image": "mp3org.png",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "EPRI Research",
+        "category": "(Jensen Hughes) Lead data analyst for seismic risk research. Skills: Power BI, DAX, SQL.",
+        "image": "epri-research.jpg",
+        "url": "https://www.epri.com/research/products/000000003002020572"
+      },
+      {
+        "title": "Spectra Software",
+        "category": "(Jensen Hughes) Lead developer for a desktop .NET app that manipulates earthquake motions. Skills: .NET, WPF, OLEDB, Agile.",
+        "image": "spectra.jpg",
+        "url": "https://www.jensenhughes.com/services/power-software-solutions"
+      },
+      {
+        "title": "React Resume",
+        "category": "(Personal) A React based resume website, built from Tim Baker's github repo",
+        "image": "resume-website.png",
+        "url": "https://github.com/chris-hendrix/react-resume"
+      },
+      {
+        "title": "Multiplayer Game",
+        "category": "(freeCodeCamp) A 2D real time multiplayer game using Socket.io. Skills: Node.js, OOP, Socket.io, Helmet.",
+        "image": "multiplayer.png",
+        "url": "https://github.com/chris-hendrix/fcc-secure-real-time-multiplayer-game"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
