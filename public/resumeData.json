@@ -84,6 +84,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Mp3 Tagger",
+        "category": "(Personal) and simple datagrid-based mp3 tag editor.",
+        "image": "mp3org.png",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
         "title": "EPRI Research",
         "category": "(Jensen Hughes) Lead data analyst for seismic risk research. Skills: Power BI, DAX, SQL.",
         "image": "epri-research.jpg",
@@ -96,16 +102,10 @@
         "url": "https://www.jensenhughes.com/services/power-software-solutions"
       },
       {
-        "title": "Mp3 Tagger",
-        "category": "(Personal) and simple datagrid-based mp3 tag editor.",
-        "image": "mp3org.png",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
+        "title": "React Resume",
         "category": "(Personal) A React based resume website, built from Tim Baker's github repo",
-        "image": "resume-website.jpg",
-        "url": "http://www.chris-hendrix.com"
+        "image": "resume-website.png",
+        "url": "https://github.com/chris-hendrix/react-resume"
       },
       {
         "title": "Multiplayer Game",
