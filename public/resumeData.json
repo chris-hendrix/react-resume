@@ -85,13 +85,13 @@
     "projects": [
       {
         "title": "Mp3 Tagger",
-        "category": "A simple datagrid-based mp3 tag editor.",
+        "category": "A simple datagrid-based mp3 tag editor. Skills: .NET, WPF, OOP, libraries.",
         "image": "mp3org.png",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "url": "https://github.com/chris-hendrix/mp3-org"
       },
       {
         "title": "EPRI Research",
-        "category": "(Jensen Hughes) Lead data analyst for seismic risk research. Skills: Power BI, DAX, SQL.",
+        "category": "(Jensen Hughes) Lead data analyst for nuclear plant seismic risk research. Skills: Database Construction, SQL, Power BI, DAX.",
         "image": "epri-research.jpg",
         "url": "https://www.epri.com/research/products/000000003002020572"
       },
@@ -103,7 +103,7 @@
       },
       {
         "title": "React Resume",
-        "category": "A React based resume website, built from Tim Baker's github repo",
+        "category": "A ReactJS based resume website, built from Tim Baker's github repo",
         "image": "resume-website.png",
         "url": "https://github.com/chris-hendrix/react-resume"
       },
