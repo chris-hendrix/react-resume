@@ -5,7 +5,7 @@
     "description": "Learned the basics at MIT, develop .NET apps at work, and do a little coding on the side",
     "image": "profilepic.jpg",
     "bio": "I am an engineer with 8 years of experience and an advanced degree from MIT specializing in seismic/blast engineering and risk assessments for the nuclear industry. I have several years of professional and personal software development experience.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Look forward to hearing from you! Don't hesitate to contact me via email or the form below.",
     "email": "cmhendrix@alum.mit.edu",
     "phone": "214-533-3206",
     "address": {
@@ -51,7 +51,7 @@
         "company": "Jensen Hughes",
         "title": "Lead Engineer",
         "years": "2017 - Present",
-        "description": "I am currently developing software and providing seismic risk assessments the nuclear power industry. I am growing my project management and BD capabilities, a focusing on new initiatives such as blast design and probabilistic hazard analysis."
+        "description": "I am currently developing software and providing seismic risk assessments for the nuclear power industry. I am growing my project management and BD capabilities, and focusing on new initiatives such as blast design and probabilistic hazard analysis."
       },
       {
         "company": "Stevenson & Associates",
@@ -85,7 +85,7 @@
     "projects": [
       {
         "title": "Mp3 Tagger",
-        "category": "(Personal) and simple datagrid-based mp3 tag editor.",
+        "category": "A simple datagrid-based mp3 tag editor.",
         "image": "mp3org.png",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
@@ -103,7 +103,7 @@
       },
       {
         "title": "React Resume",
-        "category": "(Personal) A React based resume website, built from Tim Baker's github repo",
+        "category": "A React based resume website, built from Tim Baker's github repo",
         "image": "resume-website.png",
         "url": "https://github.com/chris-hendrix/react-resume"
       },
@@ -112,6 +112,18 @@
         "category": "(freeCodeCamp) A 2D real time multiplayer game using Socket.io. Skills: Node.js, OOP, Socket.io, Helmet.",
         "image": "multiplayer.png",
         "url": "https://github.com/chris-hendrix/fcc-secure-real-time-multiplayer-game"
+      },
+      {
+        "title": "Message Board",
+        "category": "(freeCodeCamp) A simple anonymous message board that sends request to a MongoDB collection. Skills: Node.js, REST API, MongoDB.",
+        "image": "message-board.png",
+        "url": "https://github.com/chris-hendrix/fcc-messageboard"
+      },
+      {
+        "title": "Fantasy Baseball Site",
+        "category": "A site that connects to a Google sheet for customized drafting. Skills: Databases.",
+        "image": "fantasy-baseball.png",
+        "url": "https://sites.google.com/view/mitbaseball2012/draft"
       }
     ]
   },
