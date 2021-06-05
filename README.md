@@ -1,5 +1,5 @@
 # React JS Resume
-My resume as a React JS website. I used a template forked from [Tim Baker's project] (https://github.com/tbakerx/react-resume-template).
+My resume as a React JS website. I used a template forked from Tim Baker's React JS Resume Web App Template.
 
 ##### [chris-hendrix.com](https://chris-hendrix.com/)
 
