@@ -2,7 +2,7 @@
   "main": {
     "name": "Chris Hendrix",
     "occupation": "Seismic Engineer / Developer",
-    "description": "Learned the basics at MIT, develop .NET apps at work, and do a little coding on the side",
+    "description": "Learned the basics at MIT, develop .NET apps at work, and do a some coding on the side",
     "image": "profilepic.jpg",
     "bio": "I am an engineer with 8 years of experience and an advanced degree from MIT specializing in seismic/blast engineering and risk assessments for the nuclear industry. I have several years of professional and personal software development experience.",
     "contactmessage": "Look forward to hearing from you! Don't hesitate to contact me via email or the form below.",
@@ -31,7 +31,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "The majority of my most recent professional and work projects have been in .NET/WPF, however I was a TAed a Java course and have recently been expanding my python abilities.",
+    "skillmessage": "The majority of my professional and personal projects have been in .NET/WPF, however I TAed a Java course back at MIT and have recently been honing my Python abilities.",
     "education": [
       {
         "school": "MIT",
