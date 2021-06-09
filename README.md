@@ -3,7 +3,7 @@ My resume as a React JS website. I used a template forked from Tim Baker's React
 
 ##### [chris-hendrix.com](https://chris-hendrix.com/)
 
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website")
+![ReactJS Resume Website Template](public\resume-screenshot.png?raw=true "ReactJS Resume Website")
 
 
 ## Credits
