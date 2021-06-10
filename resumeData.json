@@ -68,15 +68,19 @@
     ],
     "skills": [
       {
-        "name": ".NET | OOP | Data Analysis | Power BI/DAX",
-        "level": "75%"
+        "name": ".NET | WPF | OOP ",
+        "level": "70%"
       },
       {
-        "name": "Python | Java SQL | Data Mining | Agile",
+        "name": "Python | Java | SQL | Agile",
         "level": "50%"
       },
       {
-        "name": "Node.js | React | Machine Learing | MongoDB",
+        "name": "Node.js | React | REST API | JavaScript",
+        "level": "30%"
+      },
+      {
+        "name": "Machine Learing | MongoDB",
         "level": "25%"
       }
     ]
