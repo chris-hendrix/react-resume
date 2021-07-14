@@ -72,21 +72,23 @@
         "level": "70%"
       },
       {
-        "name": "Python | Java | SQL | Agile",
+        "name": "Python | JavaScript | React.js | Node.js | REST API",
         "level": "50%"
       },
       {
-        "name": "Node.js | React | REST API | JavaScript",
-        "level": "30%"
-      },
-      {
-        "name": "Machine Learing | MongoDB",
+        "name": "Java | SQL | MongoDB | Machine Learing ",
         "level": "25%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "React Fantasy Baseball Site",
+        "category": "A site that pulls live draft data from a Google Sheet for customized drafting. Skills: Google Sheets API, React.js, Node.js.",
+        "image": "fantasy-baseball.png",
+        "url": "https://chris-hendrix.github.io/fantasy-baseball-site/"
+      },
       {
         "title": "Mp3 Tagger",
         "category": "A simple datagrid-based mp3 tag editor. Skills: .NET, WPF, OOP, libraries.",
@@ -106,12 +108,6 @@
         "url": "https://www.jensenhughes.com/services/power-software-solutions"
       },
       {
-        "title": "React Resume",
-        "category": "A ReactJS based resume website, built from Tim Baker's github repo",
-        "image": "resume-website.png",
-        "url": "https://github.com/chris-hendrix/react-resume"
-      },
-      {
         "title": "Multiplayer Game",
         "category": "(freeCodeCamp) A 2D real time multiplayer game using Socket.io. Skills: Node.js, OOP, Socket.io, Helmet.",
         "image": "multiplayer.png",
@@ -124,10 +120,10 @@
         "url": "https://github.com/chris-hendrix/fcc-messageboard"
       },
       {
-        "title": "Fantasy Baseball Site",
-        "category": "A site that connects to a Google sheet for customized drafting. Skills: Databases.",
-        "image": "fantasy-baseball.png",
-        "url": "https://sites.google.com/view/mitbaseball2012/draft"
+        "title": "React Resume",
+        "category": "A ReactJS based resume website, built from Tim Baker's github repo",
+        "image": "resume-website.png",
+        "url": "https://github.com/chris-hendrix/react-resume"
       }
     ]
   },
