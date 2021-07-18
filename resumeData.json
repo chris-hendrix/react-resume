@@ -68,7 +68,7 @@
     ],
     "skills": [
       {
-        "name": ".NET | WPF | OOP ",
+        "name": ".NET | VB.NET | WPF | OOP ",
         "level": "70%"
       },
       {
@@ -91,19 +91,13 @@
       },
       {
         "title": "Mp3 Tagger",
-        "category": "A simple datagrid-based mp3 tag editor. Skills: .NET, WPF, OOP, libraries.",
+        "category": "A simple datagrid-based mp3 tag editor. Skills: VB.NET, WPF, OOP, libraries.",
         "image": "mp3org.png",
         "url": "https://github.com/chris-hendrix/mp3-org"
       },
       {
-        "title": "EPRI Research",
-        "category": "(Jensen Hughes) Lead data analyst for nuclear plant seismic risk research. Skills: Database Construction, SQL, Power BI, DAX.",
-        "image": "epri-research.jpg",
-        "url": "https://www.epri.com/research/products/000000003002020572"
-      },
-      {
         "title": "Spectra Software",
-        "category": "(Jensen Hughes) Lead developer for a desktop .NET app that manipulates earthquake motions. Skills: .NET, WPF, OLEDB, Agile.",
+        "category": "(Jensen Hughes) Lead developer for a desktop .NET app that manipulates earthquake motions. Skills: VB.NET, WPF, OLEDB, Agile.",
         "image": "spectra.jpg",
         "url": "https://www.jensenhughes.com/services/power-software-solutions"
       },
@@ -120,10 +114,10 @@
         "url": "https://github.com/chris-hendrix/fcc-messageboard"
       },
       {
-        "title": "React Resume",
-        "category": "A ReactJS based resume website, built from Tim Baker's github repo",
-        "image": "resume-website.png",
-        "url": "https://github.com/chris-hendrix/react-resume"
+        "title": "EPRI Research",
+        "category": "(Jensen Hughes) Lead data analyst for nuclear plant seismic risk research. Skills: Database Construction, SQL, Power BI, DAX.",
+        "image": "epri-research.jpg",
+        "url": "https://www.epri.com/research/products/000000003002020572"
       }
     ]
   },
