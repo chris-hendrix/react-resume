@@ -53,7 +53,7 @@
         "years": "2017 - Present",
         "description": "",
         "bullets": [
-          "Helped scale and modularize Python ML software that utilizes neural networks in nuclear power plant maintenance reports, and developed ML models that exceeded the client’s expected performance metrics",
+          "Helped scale and modularize Python ML software that predicts required nuclear power plant maintenance actions using neural networks and NLP, and developed ML models that exceeded the client’s expected performance metrics",
           "Lead developer for a nuclear QA, Agile-managed desktop application that processes seismic motion using OOP, .NET language (WPF), and a relational database",
           "Developed meaningful trends as a lead data analyst for EPRI funded research on nuclear power risk assessments. Created a relational database in Access, and cleaned/visualized the data using Power Query/PowerBI.",
           "Managed a team of 4-6 engineers and technical experts, architected a relational database, and developed meaningful trends as a part of EPRI funded research on nuclear power risk assessments (paper published in March 2020 on time and on budget)",
